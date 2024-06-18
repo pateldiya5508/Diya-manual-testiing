@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\New Folder (1)\HP LOAD RUNNER\WebHttpHtml6
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\new folder (1)\hp load runner\webhttphtml6\\logfile.log
+d:\new folder (1)\hp load runner\webhttphtml6\\combined_WebHttpHtml6.c
+d:\new folder (1)\hp load runner\webhttphtml6\\pre_cci.c

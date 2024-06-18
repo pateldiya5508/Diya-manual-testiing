@@ -1,0 +1,16 @@
+[DATA_POINT]
+1="HTTP_200"
+2="tcp_connection_count"
+3="tcp_connect"
+4="tcp_shutdown"
+5="mic_recv"
+[END_TRANSACTION]
+1="vuser_init_Transaction"
+2="http://pki.goog/repo/certs/gts1c3.der"
+3="gts1c3.der_Action_4"
+4="http://cacerts.rapidssl.com/RapidSSLTLSRSACAG1.crt"
+5="RapidSSLTLSRSACAG1.crt_Action_20"
+6="http://pki.goog/repo/certs/gtsr1.der"
+7="gtsr1.der_Action_28"
+8="Action_Transaction"
+9="vuser_end_Transaction"

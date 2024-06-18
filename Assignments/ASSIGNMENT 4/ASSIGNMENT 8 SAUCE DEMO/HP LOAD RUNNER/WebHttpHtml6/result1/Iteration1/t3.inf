@@ -1,0 +1,15 @@
+[t3]
+URL3=http://pki.goog/repo/certs/gts1c3.der
+SnapshotXmlFile=snapshot_3.xml
+ContentType=text/html
+StepName=Url: gtsr1.der
+Total=3
+FileName1=t3_2_gtsr1.cer
+FileName3=t1_0_gts1c3.cer
+FileName2=t2_1_RapidSSLTLSRSACAG1.cer
+RequestHeaderFile=t3_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t3_ResponseHeader.txt
+RequestBodyFile=t3_RequestBody.txt
+URL1=http://pki.goog/repo/certs/gtsr1.der
+URL2=http://cacerts.rapidssl.com/RapidSSLTLSRSACAG1.crt

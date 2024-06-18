@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\ASSIGNMENT 9 WEB TOUR\HP LOAD RUNNER\WebHttpHtml1
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\assignment 9 web tour\hp load runner\webhttphtml1\\logfile.log
+d:\assignment 9 web tour\hp load runner\webhttphtml1\\combined_WebHttpHtml1.c
+d:\assignment 9 web tour\hp load runner\webhttphtml1\\pre_cci.c

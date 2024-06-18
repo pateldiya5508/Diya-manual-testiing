@@ -1,0 +1,217 @@
+[API Trapper      (25d0:2e3c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (1428:14a4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      ( c4c:1348)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( c4c:2f28)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( c4c:2f28)] Load Network Traffic Analyzers:
+[Network Analyzer ( c4c:2f28)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( c4c:2f28)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( c4c:2f28)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( c4c:2f28)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( c4c:2f28)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( c4c:2f28)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( c4c:2f28)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( c4c:2f28)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( c4c:1c18)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer ( c4c:2f28)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( c4c:2f28)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      ( c4c:1c18)] "GET /WebTours/index.htm"   
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Client -> Server @ : 781 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid=  3)  PROXIED!
+[Web Request      ( c4c:1c18)] "GET /WebTours/header.html"   
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Client -> Server @ : 818 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Server -> Client : 193 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Client -> Server @ : 729 bytes (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4003:0C02:0000:0000:0000:0054 - 443  (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Client -> Server @ : 761 bytes (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /WebTours/home.html"   
+[Network Analyzer ( c4c:1c18)]   (Sid:  2) Client -> Server @ : 857 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid:  2) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Server -> Client : 1746 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid=  5)  PROXIED!
+[Web Request      ( c4c:1c18)] "GET /favicon.ico"   
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Client -> Server @ : 635 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:082A:0000:0000:0000:200A - 443  (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:082F:0000:0000:0000:200E - 443  (Service=)  (Sid=  7)  PROXIED!
+[API Trapper      (2564:3198)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( c4c:299c)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( c4c:134c)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:134c)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3018)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:299c)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid:  3) Connection Terminated (by Client)
+[Web Request      ( c4c:3404)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer ( c4c:3404)]   (Sid:  8) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( c4c:1c80)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( c4c:3404)]   (Sid:  8) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid:  8) Server -> Client : 823 bytes  (Service=HTTP)
+[Net An. Error    ( c4c:3018)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( c4c:1c80)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( c4c:3404)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( c4c: 848)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 10)  PROXIED!
+[Net An. Error    ( c4c: 848)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( c4c:3404)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( c4c:26f4)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4003:0C0F:0000:0000:0000:00BC - 5228  (Service=)  (Sid= 12)  PROXIED!
+[Web Request      ( c4c:3404)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer ( c4c:3404)]   (Sid: 11) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 11) Server -> Client : 2085 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:082F:0000:0000:0000:200E - 443  (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( c4c: a18)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( c4c:1f94)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( c4c:3404)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( c4c:2d24)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:26f4)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid= 15)  PROXIED!
+[Net An. Error    ( c4c:2d24)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( c4c: a18)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer ( c4c:3404)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 16)  PROXIED!
+[Web Request      ( c4c:3404)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer ( c4c:3404)]   (Sid: 14) Client -> Server @ : 236 bytes (Service=HTTP)
+[Net An. Error    ( c4c:1f94)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid: 14) Server -> Client : 2043 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer ( c4c:1e68)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( c4c:3404)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 17)  PROXIED!
+[Web Request      ( c4c:3404)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer ( c4c:3404)]   (Sid: 17) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 17) Server -> Client : 2086 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 18)  PROXIED!
+[Web Request      ( c4c:3404)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Server -> Client : 823 bytes  (Service=HTTP)
+[Web Request      ( c4c:3404)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Server -> Client : 865 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1538)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      ( c4c:3404)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Server -> Client : 823 bytes  (Service=HTTP)
+[Net An. Error    ( c4c:1538)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      ( c4c:3404)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 18) Server -> Client : 2085 bytes  (Service=HTTP)
+[Net An. Error    ( c4c:1e68)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( c4c:3404)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer ( c4c: 760)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c: 760)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer ( c4c:3404)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer ( c4c:1c18)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( c4c:1c18)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer ( c4c:3404)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0822:0000:0000:0000:200A - 443  (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( c4c:300c)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:300c)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:1dcc)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:1dcc)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer ( c4c:2f28)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( c4c:3404)]   (Sid: 21) Connection Terminated (by Client)
+[Web Request      ( c4c:1c18)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 1010 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 886 bytes (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Client -> Server @ : 881 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0827:0000:0000:0000:200A - 443  (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( c4c: e2c)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c: e2c)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:257c)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:257c)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer ( c4c:3404)]   (Sid: 25) Connection Terminated (by Client)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Client -> Server @ : 900 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Client -> Server @ : 903 bytes (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 904 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 281 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( c4c:15d4)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:15d4)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 906 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 908 bytes (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Client -> Server @ : 891 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 1149 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:3404)]   (Sid: 26) Connection Terminated (by Client)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Client -> Server @ : 904 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 818 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Client -> Server @ : 899 bytes (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 894 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 27)  PROXIED!
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 898 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Client -> Server @ : 778 bytes (Service=HTTP)
+[Web Request      ( c4c:1c18)] "GET /WebTours/home.html"   
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Client -> Server @ : 874 bytes (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 23) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:1c18)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( c4c:2d88)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:2d88)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:2f28)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer ( c4c:126c)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    ( c4c:126c)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( c4c:3404)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer ( c4c:3404)]   (Sid: 28) Connection Terminated (by Client)

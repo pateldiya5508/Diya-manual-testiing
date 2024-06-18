@@ -1,0 +1,2 @@
+[Hosts]
+localhost=D:\New Folder (1)\HP LOAD RUNNER\WebHttpHtml6\res\localhost_1.eve

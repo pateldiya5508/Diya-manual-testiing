@@ -1,0 +1,2 @@
+[Hosts]
+localhost=D:\ASSIGNMENT 9 WEB TOUR\HP LOAD RUNNER\WebHttpHtml1\res\localhost_1.eve

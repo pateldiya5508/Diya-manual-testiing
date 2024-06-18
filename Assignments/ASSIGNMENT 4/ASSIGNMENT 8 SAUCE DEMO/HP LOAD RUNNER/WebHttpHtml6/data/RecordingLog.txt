@@ -1,0 +1,143 @@
+[API Trapper      (2bf8:3484)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (2b3c: 5e4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (2bc0: ed4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2bc0:1b50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2bc0:1b50)] Load Network Traffic Analyzers:
+[Network Analyzer (2bc0:1b50)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2bc0:1b50)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2bc0:1b50)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2bc0:1b50)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2bc0:1b50)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2bc0:1b50)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2bc0:1b50)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2bc0:1b50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2bc0: 36c)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:0805:0000:0000:0000:200A - 443  (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:0812:0000:0000:0000:2003 - 443  (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4003:0C02:0000:0000:0000:0054 - 443  (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2bc0:2740)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[API Trapper      (23c4: 6f0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2bc0:2494)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:082B:0000:0000:0000:200A - 443  (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid=  8)  PROXIED!
+[Net An. Error    (2bc0:2740)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:2494)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0: 36c)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (2bc0: 36c)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:082B:0000:0000:0000:200A - 443  (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2bc0:1ea4)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (2bc0:306c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (2bc0:1a7c)] SSL_connect(ssl_id = 527453696 = 000002221F704E00) Failed, ctx = 000002221F6EF570, err = "SSLv3 read server session ticket A", err code = 5
+[Net An. Error    (2bc0: 8c8)] SSL_connect(ssl_id = 527449696 = 000002221F703E60) Failed, ctx = 000002221F6FB180, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (2bc0:3564)] SSL_connect(ssl_id = 527448896 = 000002221F703B40) Failed, ctx = 000002221F7066F0, err = "SSLv2/v3 read server hello A", err code = 5
+[Network Analyzer (2bc0:1a7c)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2bc0:318c)] SSL_connect(ssl_id = 527452096 = 000002221F7047C0) Failed, ctx = 000002221F7060D0, err = "SSLv2/v3 read server hello A", err code = 5
+[Network Analyzer (2bc0: 8c8)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Network Analyzer (2bc0:3564)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Network Analyzer (2bc0:318c)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Net An. Error    (2bc0:1a7c)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0:37d0)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:0825:0000:0000:0000:2003 - 443  (Service=)  (Sid= 12)  PROXIED!
+[Net An. Error    (2bc0:1ea4)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:306c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Net An. Error    (2bc0: 8c8)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:3564)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:318c)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0:19b4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2bc0:19b4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0: e74)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0: 36c)]   (Sid:  9) Connection Terminated (by Client)
+[Net An. Error    (2bc0: e74)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0: 36c)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1fcc)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2bc0:1fcc)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0:2428)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2bc0:37d0)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:082B:0000:0000:0000:200A - 443  (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2bc0: d94)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0: 9c8)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4003:0C05:0000:0000:0000:00BC - 5228  (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:082D:0000:0000:0000:2003 - 443  (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:0805:0000:0000:0000:200A - 443  (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2bc0:2d00)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0:3690)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:0815:0000:0000:0000:200A - 443  (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (2bc0: 590)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0:333c)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (2bc0: 49c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 152.195.38.76:80   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2404:6800:4009:082F:0000:0000:0000:200A - 443  (Service=)  (Sid= 21)  PROXIED!
+[Net An. Error    (2bc0: 590)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2bc0:1cac)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2bc0:37d0)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 24)  PROXIED!
+[Web Request      (2bc0:37d0)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (2bc0:37d0)]   (Sid: 22) Client -> Server @ : 269 bytes (Service=HTTP)
+[Network Analyzer (2bc0:37d0)]   (Sid: 22) Server -> Client : 2043 bytes  (Service=HTTP)
+[Net An. Error    (2bc0:2558)]   (Sid: 24) SSL handshake with remote server Failed!
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (2bc0:37d0)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Client -> Server @ : 236 bytes (Service=HTTP)
+[Web Request      (2bc0: 36c)] "GET /RapidSSLTLSRSACAG1.crt"   
+[Network Analyzer (2bc0: 36c)]   (Sid: 20) Client -> Server @ : 282 bytes (Service=HTTP)
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Server -> Client : 2043 bytes  (Service=HTTP)
+[Net An. Error    (2bc0:3550)]   (Sid: 25) SSL handshake with remote server Failed!
+[Network Analyzer (2bc0: 36c)]   (Sid: 20) Server -> Client : 1432 bytes  (Service=HTTP)
+[Web Request      (2bc0:37d0)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Client -> Server @ : 235 bytes (Service=HTTP)
+[Net An. Error    (2bc0:2d00)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0: 36c)]   (Sid: 20) Server -> Client : 112 bytes  (Service=HTTP)
+[Net An. Error    (2bc0: 49c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:1cac)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:3690)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0: 9c8)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:2428)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2bc0:333c)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Server -> Client : 2086 bytes  (Service=HTTP)
+[Web Request      (2bc0:37d0)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Server -> Client : 2043 bytes  (Service=HTTP)
+[Web Request      (2bc0:37d0)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (2bc0:37d0)]   (Sid: 23) Server -> Client : 2086 bytes  (Service=HTTP)
+[Net An. Error    (2bc0: d94)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0: 36c)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (2bc0: 36c)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (2bc0:37d0)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (2bc0:1b50)] Address lookup for DESKTOP-CJ0LLOC = 192.168.1.54
+[Network Analyzer (2bc0:1b50)] Request Connection: Remote Server @ 54.167.181.158:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (2bc0:36f4)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (2bc0:36f4)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[API Trapper      ( ba8:26c4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (2dfc:315c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2bc0:239c)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (2bc0:239c)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2bc0: 36c)]   (Sid: 20) Connection Terminated (by Client)

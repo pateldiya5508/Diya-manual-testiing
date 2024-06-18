@@ -1,0 +1,13 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=text/html
+StepName=Url: RapidSSLTLSRSACAG1.crt
+Total=2
+FileName1=t2_1_RapidSSLTLSRSACAG1.cer
+FileName2=t1_0_gts1c3.cer
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+URL1=http://cacerts.rapidssl.com/RapidSSLTLSRSACAG1.crt
+URL2=http://pki.goog/repo/certs/gts1c3.der
